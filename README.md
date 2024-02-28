@@ -38,5 +38,3 @@ Tic Tac Toe is a simple strategy game played between two players. The objective 
 4. Wait for review and acceptance!
 
 ## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
